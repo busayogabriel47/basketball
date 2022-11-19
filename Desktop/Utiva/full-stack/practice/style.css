@@ -1,0 +1,17 @@
+.parent {
+  display: flex;
+  width: 100%;
+  text-align: center !important;
+}
+
+.children {
+  width: 50%;
+}
+.heading {
+  text-align: center;
+}
+.heading h1 {
+  color: brown;
+  font-size: 4rem;
+  font-weight: bold;
+}
